@@ -5,3 +5,11 @@ Still trying to get used to working with markdown. I can memorize some of them b
 <H2> How I Accomplished This Assignment</H2>
 <body>
 Coding has always been a struggle for me so I did have to use the markdown cheatsheet for a lot of this. The reason I had trouble getting my index.html onto Github is because I forgot to save this to my file first so then it wouldn't show up there and I was really confused, but I thought it through and finally figured it out... Stress panick over silly mistakes makes me angry.
+
+<H1>Part 2</H1>
+<H2>Struggles:</H2>
+<body>
+This week I had a few technical issues that I needed to fix. Just easy changes here and there for the most part. The forms.html was a little more confusing, but I worked that out. </body>
+<H2>Accomplishments:</H2>
+<body>
+I emailed for help when I couldn't seem to figure out the solution on my own. That helped me a lot and I got everything figured out after that. So glad my professor checks her email on the weekends. </body>
