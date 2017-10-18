@@ -13,3 +13,6 @@ This week I had a few technical issues that I needed to fix. Just easy changes h
 <H2>Accomplishments:</H2>
 <body>
 I emailed for help when I couldn't seem to figure out the solution on my own. That helped me a lot and I got everything figured out after that. So glad my professor checks her email on the weekends. </body>
+
+<H1>Part 3</H1>
+<body> This week I struggeled to get things done on time because of all the homework I was assigned this week and having to study hard for an exam I had, But coding is starting to get a little easier which is great. Still not a fan of it, but I am happy when I am able to successfully accomplish something I was struggling with. </body> 
