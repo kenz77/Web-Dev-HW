@@ -3,9 +3,46 @@
     src:
         url('../Fonts/DancingScript-Bold.ttf');
         format('opentype');
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
   }
-@font-face {
-  src: url(''../Fonts/DancingScript-Bold.ttf');
-}
+  @font-face {
+      font-family: 'DancingScript';
+      src:
+          url('../Fonts/DancingScript-Regular.ttf');
+          format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
+    @font-face {
+        font-family: 'Ubuntu';
+        src:
+            url('../Fonts/Ubuntu-Bold.ttf');
+            format('opentype');
+        font-weight: bold;
+        font-style: normal;
+      }
+      @font-face {
+          font-family: 'Ubuntu';
+          src:
+              url('../Fonts/Ubuntu-BoldItalic.ttf');
+              format('opentype');
+          font-weight: Bold;
+          font-style: Italic;
+        }
+        @font-face {
+            font-family: 'Ubuntu';
+            src:
+                url('../Fonts/Ubuntu-Italic.ttf');
+                format('opentype');
+            font-weight: normal;
+            font-style: italic;
+          }
+          @font-face {
+              font-family: 'Ubuntu';
+              src:
+                  url('../Fonts/Ubuntu-Regular.ttf');
+                  format('opentype');
+              font-weight: normal;
+              font-style: normal;
+            }
