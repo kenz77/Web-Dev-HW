@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'DancingScript';
+    src:
+        url('../Fonts/DancingScript-Bold.ttf');
+        format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+  src: url(''../Fonts/DancingScript-Bold.ttf');
+}
