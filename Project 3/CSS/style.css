@@ -4,3 +4,9 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script|Ubuntu');
 </style>
+body {
+    color: rgb(39.2, 36.5, 32.9);
+    background-color: rgb(242, 232, 192);
+}
+.color-text {
+    color: rgb(39.2, 36.5, 32.9);

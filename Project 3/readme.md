@@ -32,5 +32,6 @@
 <img src="./images/edge.png" alt="edge" title="edge" width="500" height="300"/><br></br>
 <h3>Part 2</h3>
 For this part of the project I did a lot of thinking about the design and layout for my site. I picked out two fonts that should fit nicely together, Ubuntu and DancingScipt. I still really like the color pallette I chose and think it would be great for a children's site. I don't think I will want to use all of those colors though. I as likely going to leave out the sage green. The almond oil color looks like it could be a good subtle background color. and the Gray color used for text.
+I seemed to have some issues with using color. I followed the directions and it didn't always work. I did the background color fine but doing text color didn't work so well.
   </body>
 </html>
