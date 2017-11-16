@@ -33,5 +33,8 @@
 <h3>Part 2</h3>
 For this part of the project I did a lot of thinking about the design and layout for my site. I picked out two fonts that should fit nicely together, Ubuntu and DancingScipt. I still really like the color pallette I chose and think it would be great for a children's site. I don't think I will want to use all of those colors though. I as likely going to leave out the sage green. The almond oil color looks like it could be a good subtle background color. and the Gray color used for text.
 I seemed to have some issues with using color. I followed the directions and it didn't always work. I did the background color fine but doing text color didn't work so well.
+
+<h3>Part 3</h3>
+This section of the project was the most frustrating. I had a ton of technical issues just trying to open atom. This program has not been working well for me so it made it very hard for me to get my assignment done. I went to the computer lab to do some of the work, but still not able to get everything done that I wanted to. I hope that for this next assignment this won't be happening again. With what I was able to get done, I really liked how the menu looks on my site and the color pallette that I chose. I think it fits well with the subject of my site. It seems calm and inviting which is something you would want for a childrens book.
   </body>
 </html>
