@@ -1,18 +1,32 @@
-@media screen and (min-width:800px) (max-width:450px)  {
-    /* CSS Rules */
-    /* Typed Normally */
+* {
+    font-family: 'Ubuntu', sans-serif;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Ubuntu');
+
+body {
+    color: rgb(39.2%, 36.5%, 32.9%);
+    background-color: rgb(242, 232, 192);
+}
+    .main-container {
+      border: 2px double rgb(39.2%, 36.5%, 32.9%);
+        padding: 100px;}
+.main-container h1, h2 {
+  display: block;
+  background-color: white;
+  padding: 5px
+}
+
+
 
 <meta name= "viewport" content="width=device-width, inisial-scale=1.0">
 <link rel="stylesheet" href="index.html">
 <link rel="stylesheet" media="screen and (min-width: 550px)">
-<a href="weather-medium.css"
+<a href="style.css"
 <link rel="stylesheet" media="screen and (min-width: 700px)"
-href="weather-large.css"
+href="index.html"
 
-@media (min-width: 500px) and (max-width: 600px) {
-  
-}
+
 .main-container {
     display: flex;
     flex-wrap: wrap;
@@ -202,22 +216,17 @@ a{
 	a:hover,
 	a:active{ text-decoration: underline; }
 
-/* you can structure your code's white space so that it is as readable for when you come back in the future or for other people to read and edit quickly */
-
 body{
     font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
 }
-/* you can put your code all in one line like above */
 #page{ margin: 20px; }
 
-/* or on different lines like below */
 #logo{
 	width: 35%;
 	margin-top: 5px;
 	font-family: georgia;
 	display: inline-block;
 }
-/* but try and be as concise as possible */
 #nav{
 	width: 60%;
 	display: inline-block;
@@ -257,6 +266,5 @@ body{
 		color: grey;
 	}
 
-/* multiple styles seperated by a , */
 #content,
 ul li a{ box-shadow: 0px 1px 1px #999; }
