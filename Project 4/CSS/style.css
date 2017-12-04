@@ -1,0 +1,262 @@
+@media screen and (min-width:800px) (max-width:450px)  {
+    /* CSS Rules */
+    /* Typed Normally */
+}
+
+<meta name= "viewport" content="width=device-width, inisial-scale=1.0">
+<link rel="stylesheet" href="index.html">
+<link rel="stylesheet" media="screen and (min-width: 550px)">
+<a href="weather-medium.css"
+<link rel="stylesheet" media="screen and (min-width: 700px)"
+href="weather-large.css"
+
+@media (min-width: 500px) and (max-width: 600px) {
+  
+}
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-item {
+    text-align: center;
+}
+
+.red {
+    background-color: #A8DBA8;
+    order: 1;
+    width: 100%;
+}
+.blue {
+    background-color: #CFF09E;
+    order: 2;
+    width: 16%;
+}
+.green {
+    background-color: #79BD9A;
+    order: 3;
+    width: 68%;
+    height: 300px;
+}
+.yellow {
+    background-color: #3B8686;
+    order: 4;
+    width: 16%;
+}
+.orange {
+    background-color: #0B486B;
+    order: 5;
+    width: 100%;
+}
+
+
+@media (max-width: 1000px) {
+    .blue {
+        order: 2;
+        width: 33%;
+    }
+    .green {
+        order: 3;
+        width: 67%;
+    }
+    .yellow {
+        order: 4;
+        width: 100%;
+    }
+}
+
+@media (max-width: 550px) {
+    .blue {
+        order: 3;
+        width: 100%;
+    }
+    .green {
+        order: 2;
+        width: 100%;
+    }
+    .yellow {
+        order: 4;
+        width: 100%;
+    }
+}
+
+body, html{margin:0px; padding:0px;}
+body{font-family: 'Source Code Pro', sans-serif;background:#222; padding:2%; color:#eee;}
+*, *:after, *:before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+h1{
+  font-family: 'Dorsa', sans-serif;
+  font-weight:100;
+  letter-spacing:1px;
+  font-size:110px;
+  text-align:center;
+  margin:0px;
+}
+#drop{
+  height: 34px;
+  width: 34px;
+  margin: 0 auto;
+}
+p{
+  text-align: center;
+  margin:0px 0px 2.2em;
+  font-size: 12px;
+  color: #999;
+  line-height: 30px;
+}
+a{color:#28D9E8;text-decoration:none;}
+a:hover{text-decoration:underline;}
+ul {
+  float:left;
+  width:48%;
+  list-style-type: none;
+  margin: 0 1% 1.5%;
+  padding: 0;
+  display: block;
+  padding:15px 15px 7px 15px;
+  background:rgba(0,0,0,0.1);
+}
+li {
+  display: block;
+  float: left;
+  width: 20%;
+}
+ul.x2{
+  width:98%;
+}
+ul.x2 li{
+  width:10%;
+}
+input {
+  font-family: 'Arial', sans-serif;
+  display: block;
+  width: 100%;
+  border: 0;
+  height: 100px;
+  outline:0px;
+  text-align: center;
+  color:#fff;
+  font-size:13px;
+  border-radius:0px;
+  cursor:pointer;
+  position: relative;
+  top:0px;
+}
+input:hover{
+  position: relative;
+  top:-5px;
+}
+span{
+  clear:both;
+  color:#888;
+  font-size:12px;
+  padding-top:5px;
+  display:block;
+}
+span a{
+  font-size:10px;
+}
+
+/* Media Queries */
+@media screen and (min-width: 0px) and (max-width: 700px) {
+  ul{width:100%;float:none;margin-left:0px;}
+}
+
+.squeeze{line-height:18px;}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+
+p{ line-height: 1em; }
+h1, h2, h3, h4{
+    color: orange;
+	font-weight: normal;
+	line-height: 1.1em;
+	margin: 0 0 .5em 0;
+}
+h1{ font-size: 1.7em; }
+h2{ font-size: 1.5em; }
+a{
+	color: black;
+	text-decoration: none;
+}
+	a:hover,
+	a:active{ text-decoration: underline; }
+
+/* you can structure your code's white space so that it is as readable for when you come back in the future or for other people to read and edit quickly */
+
+body{
+    font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
+}
+/* you can put your code all in one line like above */
+#page{ margin: 20px; }
+
+/* or on different lines like below */
+#logo{
+	width: 35%;
+	margin-top: 5px;
+	font-family: georgia;
+	display: inline-block;
+}
+/* but try and be as concise as possible */
+#nav{
+	width: 60%;
+	display: inline-block;
+	text-align: right;
+	float: right;
+}
+	#nav ul{}
+		#nav ul li{
+			display: inline-block;
+			height: 62px;
+		}
+			#nav ul li a{
+				padding: 20px;
+				background: orange;
+				color: white;
+			}
+			#nav ul li a:hover{
+				background-color: #ffb424;
+				box-shadow: 0px 1px 1px #666;
+			}
+			#nav ul li a:active{ background-color: #ff8f00; }
+
+#content{
+	margin: 30px 0;
+	background: white;
+	padding: 20px;
+	clear: both;
+}
+#footer{
+	border-bottom: 1px #ccc solid;
+	margin-bottom: 10px;
+}
+	#footer p{
+		text-align: right;
+		text-transform: uppercase;
+		font-size: 80%;
+		color: grey;
+	}
+
+/* multiple styles seperated by a , */
+#content,
+ul li a{ box-shadow: 0px 1px 1px #999; }
