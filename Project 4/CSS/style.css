@@ -6,7 +6,7 @@
 
 p{ line-height: 1em; }
 h1, h2, h3, h4{
-    color: orange;
+    color: #A8DBA8;
 	font-weight: normal;
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
@@ -20,22 +20,17 @@ a{
 	a:hover,
 	a:active{ text-decoration: underline; }
 
-/* you can structure your code's white space so that it is as readable for when you come back in the future or for other people to read and edit quickly */
-
 body{
-    font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #eee;
+    /font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background: #A8DBA8;
 }
-/* you can put your code all in one line like above */
 #page{ margin: 20px; }
 
-/* or on different lines like below */
-#logo{
+/*#logo{
 	width: 35%;
 	margin-top: 5px;
 	font-family: georgia;
 	display: inline-block;
-}
-/* but try and be as concise as possible */
+}*/
 #nav{
 	width: 60%;
 	display: inline-block;
@@ -75,11 +70,10 @@ body{
 		color: grey;
 	}
 
-/* multiple styles seperated by a , */
 #content,
 ul li a{ box-shadow: 0px 1px 1px #999; }
 
-/**body {
+/*body {
     color: rgb(39.2%, 36.5%, 32.9%);
     background-color: rgb(242, 232, 192);
 }
@@ -99,7 +93,7 @@ ul li a{ box-shadow: 0px 1px 1px #999; }
 <link rel="stylesheet" media="screen and (min-width: 550px)">
 <a href="style.css"
 <link rel="stylesheet" media="screen and (min-width: 700px)"
-href="index.html"
+href="index.html"*/
 
 
 .main-container {
@@ -200,18 +194,18 @@ p{
   color: #999;
   line-height: 30px;
 }
-a{color:#28D9E8;text-decoration:none;}
-a:hover{text-decoration:underline;}
+/*a{color:#28D9E8;text-decoration:none;}
+a:hover{text-decoration:underline;}*/
 ul {
-  float:left;
-  width:48%;
+  float:none;
+  width:100%;
   list-style-type: none;
   margin: 0 1% 1.5%;
   padding: 0;
   display: block;
   padding:15px 15px 7px 15px;
   background:rgba(0,0,0,0.1);
-}
+}*/
 li {
   display: block;
   float: left;
@@ -253,7 +247,6 @@ span a{
   font-size:10px;
 }
 
-/* Media Queries */
 @media screen and (min-width: 0px) and (max-width: 700px) {
   ul{width:100%;float:none;margin-left:0px;}
 }
@@ -277,7 +270,7 @@ p {
 
 p{ line-height: 1em; }
 h1, h2, h3, h4{
-    color: orange;
+    color: #0B486B;
 	font-weight: normal;
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
@@ -315,7 +308,7 @@ body{
 		}
 			#nav ul li a{
 				padding: 20px;
-				background: orange;
+				background: #0B486B;
 				color: white;
 			}
 			#nav ul li a:hover{
