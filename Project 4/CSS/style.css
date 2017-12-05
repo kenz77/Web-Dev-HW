@@ -86,82 +86,12 @@ ul li a{ box-shadow: 0px 1px 1px #999; }
   padding: 5px
 }
 
-
-
 <meta name= "viewport" content="width=device-width, inisial-scale=1.0">
 <link rel="stylesheet" href="index.html">
 <link rel="stylesheet" media="screen and (min-width: 550px)">
 <a href="style.css"
 <link rel="stylesheet" media="screen and (min-width: 700px)"
 href="index.html"*/
-
-
-.main-container {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-.flex-item {
-    text-align: center;
-}
-
-.red {
-    background-color: #A8DBA8;
-    order: 1;
-    width: 100%;
-}
-.blue {
-    background-color: #CFF09E;
-    order: 2;
-    width: 16%;
-}
-.green {
-    background-color: #79BD9A;
-    order: 3;
-    width: 68%;
-    height: 300px;
-}
-.yellow {
-    background-color: #3B8686;
-    order: 4;
-    width: 16%;
-}
-.orange {
-    background-color: #0B486B;
-    order: 5;
-    width: 100%;
-}
-
-
-@media (max-width: 1000px) {
-    .blue {
-        order: 2;
-        width: 33%;
-    }
-    .green {
-        order: 3;
-        width: 67%;
-    }
-    .yellow {
-        order: 4;
-        width: 100%;
-    }
-}
-
-@media (max-width: 550px) {
-    .blue {
-        order: 3;
-        width: 100%;
-    }
-    .green {
-        order: 2;
-        width: 100%;
-    }
-    .yellow {
-        order: 4;
-        width: 100%;
-    }
-}
 
 body, html{margin:0px; padding:0px;}
 body{font-family: 'Source Code Pro', sans-serif;background:#222; padding:2%; color:#eee;}
