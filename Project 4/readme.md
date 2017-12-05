@@ -3,6 +3,10 @@
 <h3>color pallette</h3>
 
   yellow green color: #CFF09E
+  light green color: #A8DBA8
+  medium green color: #79BD9A
+  blue green color: #3B8686
+  blue color: #0B486B 
 
   <li swatch="#A8DBA8">light green</li>
   <li swatch="#79BD9A">medium green</li>

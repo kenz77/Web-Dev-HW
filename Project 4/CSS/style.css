@@ -197,13 +197,13 @@ p{
 /*a{color:#28D9E8;text-decoration:none;}
 a:hover{text-decoration:underline;}*/
 ul {
-  float:none;
+  float:right;
   width:100%;
   list-style-type: none;
-  margin: 0 1% 1.5%;
+  margin: none;
   padding: 0;
   display: block;
-  padding:15px 15px 7px 15px;
+  padding:none;
   background:rgba(0,0,0,0.1);
 }*/
 li {
