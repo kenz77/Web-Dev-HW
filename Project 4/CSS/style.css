@@ -112,6 +112,9 @@ h1{
   text-align:center;
   margin:0px;
 }
+img{
+  image-align: center;
+}
 #drop{
   height: 34px;
   width: 34px;
